@@ -13,6 +13,7 @@ git&github 순서
     현재 스테이징 된 파일의 기록명을 작성(영어, 한글 모두 가능, 짧게 키워드 위주로 작성하기)
     ex) 쇼핑몰 상품 페이지를 만들었다면?
     git commit -m 'shp man-product end'
+    git commit -m '쇼핑몰 남성복 완료'
 3. git push orgin main 
     orgin == gitHub 주소
     main == Local 내컴퓨터 위치
