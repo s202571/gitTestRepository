@@ -4,7 +4,7 @@ git&github 순서
 2. git branch -M main
     master - > main으로 변경
 3. git remote add orgin HTTPS주소 붙여넣기
-    orgin
+    orgin == gitHub HTTPS 주소변경
 *- - - - - - -
 *초기 디렉터리 생성 후 작업 진행시 순서
 1. git add .
